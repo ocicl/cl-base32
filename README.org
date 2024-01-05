@@ -4,6 +4,6 @@ Base32 (RFC4648) encoding / decoding for common lisp.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/hargettp/cl-base32.git |
-| commit  | 8cdee06                                       |
+| commit  | 0676009                                       |
 | systems | cl-base32                                     |
 |---------+-----------------------------------------------|
